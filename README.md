@@ -22,7 +22,9 @@ We aim to segment the customers based on their Location(city), frequency of purc
 • Improve customer service. 
 
 
-• Upsell and cross-sell other products and servicesThe inputs are as follows: UserID, building_name, address, city, Most Ordered Product, Most Ordered Product Count, Most ordered product per unit cost, Products with Max cost, Ordered count of max cost product, Per unit cost of max cost product, Milk subscription type, Other Product Subscribed with max frequency, Subscription type of other product, Reason for Duplicity.
+• Upsell and cross-sell other products and services.
+
+The inputs are as follows: UserID, building_name, address, city, Most Ordered Product, Most Ordered Product Count, Most ordered product per unit cost, Products with Max cost, Ordered count of max cost product, Per unit cost of max cost product, Milk subscription type, Other Product Subscribed with max frequency, Subscription type of other product, Reason for Duplicity.
 
 
 500 random users have been taken from subscription table and products which are ordered by customers, are picked from daily log table.
